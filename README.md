@@ -14,6 +14,12 @@ https://www.stackai.com/ai-webpage/6a9624fb4cb49584761c574e-4qjZ4r1AdyA3HWhyKY8O
 # Back-end
 <img width="1177" height="581" alt="Screenshot 2026-08-31 at 11 35 15 PM" src="https://github.com/user-attachments/assets/7c19c197-fbc7-4ba9-92cd-3a838a9a85d7" />
 
+# Sample Output
+<img width="648" height="629" alt="Screenshot 2026-09-01 at 12 24 56 AM" src="https://github.com/user-attachments/assets/91aea846-5817-4db2-8b2e-9a05b1cef9a1" />
+<img width="650" height="627" alt="Screenshot 2026-09-01 at 12 25 33 AM" src="https://github.com/user-attachments/assets/bf7973cd-6030-4ba6-a3c3-80e33c5abbb7" />
+<img width="643" height="646" alt="Screenshot 2026-09-01 at 12 25 58 AM" src="https://github.com/user-attachments/assets/76ba0990-731a-4b7c-beee-6cf05a875d38" />
+<img width="637" height="660" alt="Screenshot 2026-09-01 at 12 26 22 AM" src="https://github.com/user-attachments/assets/b1ddc040-1b13-4ae0-9820-22d52851a319" />
+
 # Video
-https://www.loom.com/share/6a773959da4d47c5ac7d9dc6a942af00
+https://www.loom.com/share/dc0b2c8317334a12b9b5467ab8adff5f
 This video uses dummy data.
