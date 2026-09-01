@@ -1,6 +1,6 @@
 # AI Native Law Firm Prototype
 
-Share your legal issue and upload evidence, and the prototype will provide legal analysis, evidence analysis, draft legal document(s), and a docket/invoice.
+Share a legal issue and upload evidence, and the prototype will provide legal analysis, evidence analysis, draft legal document(s), and a docket/invoice.
 
 This is a prototype only and does not constitute legal advice. Do not put sensitive information into the prototype.
 
@@ -16,3 +16,4 @@ https://www.stackai.com/ai-webpage/6a9624fb4cb49584761c574e-4qjZ4r1AdyA3HWhyKY8O
 
 # Video
 https://www.loom.com/share/6a773959da4d47c5ac7d9dc6a942af00
+This video uses dummy data.
