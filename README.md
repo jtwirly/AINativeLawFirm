@@ -1,5 +1,7 @@
 # AI Native Law Firm Prototype
 
+Share your legal issue and upload evidence, and the prototype will provide legal analysis, evidence analysis, draft legal document(s), and a docket/invoice.
+
 This is a prototype only and does not constitute legal advice. Do not put sensitive information into the prototype.
 
 ## Prototype
