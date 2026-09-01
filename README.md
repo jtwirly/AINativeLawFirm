@@ -12,7 +12,7 @@ This video uses dummy data.
 https://www.stackai.com/ai-webpage/6a9624fb4cb49584761c574e-4qjZ4r1AdyA3HWhyKY8OUX
 
 ## Interface
-<img width="638" height="590" alt="Screenshot 2026-09-01 at 12 27 39 AM" src="https://github.com/user-attachments/assets/fb87f33e-c906-4930-afc6-e003999abf8f" />
+<img width="643" height="648" alt="Screenshot 2026-09-01 at 12 28 35 AM" src="https://github.com/user-attachments/assets/1aa6daea-c4c4-4cb0-89be-ad2efd68bb0d" />
 <img width="647" height="634" alt="Screenshot 2026-08-31 at 11 36 00 PM" src="https://github.com/user-attachments/assets/224fa5a1-b11c-4270-ad73-6b786a4b7109" />
 
 # Sample Output
