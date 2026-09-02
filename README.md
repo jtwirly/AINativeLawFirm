@@ -98,7 +98,7 @@ Each agent node runs on **Claude 4.5 Haiku** and has access to **web search** pl
 
 ## Tech notes
 
-- Built as an agentic pipeline where each node's output feeds the next; evidence files are exposed as a shared input across all agent nodes.
+- Built as an agentic pipeline where each node's output feeds the next.
 - Formatting/output nodes (rendered as text/markdown panels) capture each agent's response for review and export (copy/download) independently of the underlying agent nodes.
 - Model: Claude 4.5 Haiku for all agent nodes.
 - Tools: web search (all agents) + A2AJ tool for Canadian case law lookups (https://a2aj.ca/data/)
