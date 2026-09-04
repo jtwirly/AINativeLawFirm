@@ -103,6 +103,10 @@ Each agent node runs on **Claude 4.5 Haiku** and has access to **web search** pl
 - Model: Claude 4.5 Haiku for all agent nodes.
 - Tools: web search (all agents) + A2AJ tool for Canadian case law lookups (https://a2aj.ca/data/)
 
+## Next Steps
+
+Integrate human in the loop, filing deadlines / calendaring, checks and balances.
+
 ## Disclaimer
 
 This project is a proof of concept exploring AI-assisted legal workflows. Outputs are **not legal advice**, may contain inaccurate or fabricated case citations, and should be reviewed by a licensed lawyer before any real-world use. Do not upload real client data, personal information, or privileged materials into the prototype.
